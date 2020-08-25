@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [Welcome to BlinkBoard!](README.md)
 
