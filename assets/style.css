@@ -1,0 +1,12 @@
+
+nav{
+  height: 2.5em;
+}
+
+a{
+text-decoration:none !important;
+}
+
+a:hover{
+  color: #008FED !important;
+}
