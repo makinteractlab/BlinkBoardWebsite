@@ -10,5 +10,3 @@ It allows an instructor to remotely indicate, via blinking LEDs, in which rows t
 
 ![Overview of BlinkBoardApp](.gitbook/assets/overview.png)
 
-  
-
