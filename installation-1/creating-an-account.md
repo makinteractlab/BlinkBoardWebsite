@@ -1,24 +1,23 @@
 # Creating an account
 
-1. **Create a new account** and fill out a valid email address and password.
+1. Click **CREATE NEW ACCOUNT**. Type your valid email address and password and click **CREATE ACCOUNT**.
 
-![](../.gitbook/assets/3.jpeg)
+![](../.gitbook/assets/account1.png)
 
-2. **Check your mailbox**, including junk/spam folder, and verify your email address. Reopen the BlinkBoard app and **sign in** with your email and password.
-
-![](../.gitbook/assets/4.jpeg)
-
-3. **Connect** your BlinkBoard to your computer with the **USB** cable in the box.
-
-![](../.gitbook/assets/5.jpeg)
-
-4. Click the **top left arrow**, and select the port under the Control panel.
-
-![](../.gitbook/assets/screen-shot-2020-09-10-at-6.49.24-pm.png)
-
-5. Check the top right light. If it is **GREEN** it is ready to use.
-
-![](../.gitbook/assets/7.jpeg)
+![](../.gitbook/assets/account2.png)
 
 
+
+2. Go to your email address and verify your email by clicking the link.   
+Reopen the BlinkBoard app and **SIGN IN**.
+
+![](../.gitbook/assets/account3.png)
+
+![](../.gitbook/assets/account4.png)
+
+3.  Go to the Settings, and change the Name to your  \(eg. 11111111\_Justin\) and click **UPDATE SETTING**
+
+![](../.gitbook/assets/account5.png)
+
+![](../.gitbook/assets/account6.png)
 
