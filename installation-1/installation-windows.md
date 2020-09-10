@@ -4,7 +4,7 @@
 
 ![](../.gitbook/assets/1.jpeg)
 
-Click Next for the default\(recommending\) setting. Click install to start installation
+Click Next for the default\(**recommending**\) setting. Click install to start installation
 
 ![](../.gitbook/assets/2.jpeg)
 
