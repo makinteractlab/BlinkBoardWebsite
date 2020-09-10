@@ -6,10 +6,11 @@
 
 * [Installation Mac](installation-1/installation-mac.md)
 * [Installation Windows](installation-1/installation-windows.md)
+* [Creating an account](installation-1/creating-an-account.md)
 
 ## 🔗Resources
 
+* [❓FAQ](resources/faq.md)
 * [About us](resources/about-us.md)
 * [External sites](resources/external-sites.md)
-* [FAQ](resources/faq.md)
 

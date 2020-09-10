@@ -1,4 +1,4 @@
-# FAQ
+# ❓FAQ
 
 ## Where can I get BlinkBoard?
 
