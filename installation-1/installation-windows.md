@@ -1,4 +1,4 @@
-# Installation Windows
+# Installation for Windows
 
 1. **Download** the BlinkBoard app from the [official website](http://blinkboard.kaist.ac.kr).
 2. **Extract** the downloaded file and double click the installer file. Click **Next** to start proceed
