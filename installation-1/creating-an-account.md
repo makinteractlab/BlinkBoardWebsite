@@ -14,7 +14,7 @@
 
 4. Click the **top left arrow**, and select the port under the Control panel.
 
-![](../.gitbook/assets/6.jpeg)
+![](../.gitbook/assets/screen-shot-2020-09-10-at-6.49.24-pm.png)
 
 5. Check the top right light. If it is **GREEN** it is ready to use.
 
