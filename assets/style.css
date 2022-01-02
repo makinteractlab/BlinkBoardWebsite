@@ -1,22 +1,24 @@
-
-nav{
+nav {
   height: 2.5em;
 }
 
-a{
-text-decoration:none !important;
+a {
+  text-decoration: none !important;
 }
 
-a:hover{
-  color: #008FED !important;
+a:hover {
+  color: #008fed !important;
 }
 
-.overlay
-{
+.overlay {
   width: 30em;
 }
 
-#idlogo{
-  height:90%;
+#idlogo {
+  height: 90%;
   width: auto;
+}
+
+iframe {
+  margin-left: -60px;
 }
